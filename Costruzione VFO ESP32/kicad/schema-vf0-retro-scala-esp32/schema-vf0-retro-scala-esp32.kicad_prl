@@ -82,14 +82,14 @@
     "files": [
       {
         "name": "schema-vf0-retro-scala-esp32.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
           "display": 1,
-          "maximized": false,
-          "pos_x": 2152,
-          "pos_y": 145,
-          "size_x": 1193,
-          "size_y": 906
+          "maximized": true,
+          "pos_x": 1912,
+          "pos_y": -8,
+          "size_x": 1616,
+          "size_y": 1176
         }
       }
     ]
